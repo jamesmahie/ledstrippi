@@ -1,9 +1,7 @@
-#!/usr/bin/env python3
-# NeoPixel library strandtest example
-# Author: Tony DiCola (tony@tonydicola.com)
+# LED Strip(show) using Raspberry Pi
+# Code downloaded from https://core-electronics.com.au/tutorials/ws2812-addressable-leds-raspberry-pi-quickstart-guide.html
+# Original author: Tony DiCola (tony@tonydicola.com)
 #
-# Direct port of the Arduino NeoPixel library strandtest example.  Showcases
-# various animations on a strip of NeoPixels.
 
 import time
 from neopixel import *
